@@ -1,6 +1,6 @@
 <?php
 /**
- * This file is part of tomkyle/DateTime.
+ * This file is part of tomkyle/datetime.
  *
  * Copyright (c) 2014 Carsten Witt
  *
